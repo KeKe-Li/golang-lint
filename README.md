@@ -1,7 +1,7 @@
 ### golang-lint
 
 
-在项目中使用lint作为go项目的检测运行程序，这主要是因为它在较大的代码库中的性能以及能够同时配置和使用许多规范。
+在项目中使用lint作为go项目的检测运行程序,这主要是因为它在较大的代码库中的性能以及能够同时配置和使用许多规范。
 
 - [golangci-lint](https://github.com/golangci/golangci-lint)
 - [golangci-lint](https://github.com/uber-go/guide/blob/master/.golangci.yml)
